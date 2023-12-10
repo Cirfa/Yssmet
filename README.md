@@ -1,0 +1,1 @@
+Yssmet is a discord Bot aimed to be an ingame TTRPG assistant.
